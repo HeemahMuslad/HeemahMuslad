@@ -1,17 +1,11 @@
-+ 👋 Hi, I’m @HeemahMuslad
-+ 👀 I’m interested in web development, NLP and graphics design
-+ 💞️ I’m looking to collaborate on different web development projects, graphics design and community management tasks
-+ 📫 How to reach me via email at [my email address](rohimatmustapha7@gmail.com)
-+ 👀 credit: designed by [Taiwrash](https://github.com/Taiwrash)
-<!---
-HeemahMuslad/HeemahMuslad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, you are welcome here
 
+I'm **_Rohimat Mustapha_**, also known as _HeemahMuslad_. I’m a passionate and results-driven **Frontend Developer** dedicated to delivering high-quality, scalable, and user-centered web solutions.
+I have hands-on experience with `JavaScript` and `Typescript`, and I specialize in building responsive and dynamic web applications using frameworks like **React.js** and **Next.js**.
+🌟 **What I’m Looking For:**  
+I’m eager to collaborate on exciting web development projects that solve real-world problems and create impactful user experiences.
 
-<h1 align='center'>Hi there 👋🏾</h1>
-
-<p align='center'>I am a Software Engineer focused on Javascript (NodeJS/Express, TypeScript)  and PHP (Laravel). </p>
+![counter](https://komarev.com/ghpvc/?username=HeemahMuslad&color=blue)
 
 <p align='center'>
 <a href="https://wa.me/2348063068974?text=Hello Rohimat" target="_blank">
@@ -26,18 +20,15 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:rohimatmustapha7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/HeemahMuslad" />
   
-  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=HeemahMuslad&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HeemahMuslad&hide=css,java,html&theme=tokyonight">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HeemahMuslad">
-  <img src = "https://wakatime.com/share/@HeemahMuslad/a60c15eb-d69f-4d78-9716-90bde71eb0ff.svg">
-</p>
-</p>
- 
-<!--
-<p align='center'>
-<a href="https://stackoverflow.com/users/10612336/iamnotstatic"><img src="https://stackoverflow.com/users/flair/10835183.png" width="208" height="58" alt="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdulfatai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;
-</p>
+
+
 -->
+
+### 🧑‍💻 Basics skills levels and languages..
+
+<!-- stats and languages Chart -->
+<div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
+	<img width=53% src="https://github-readme-stats.vercel.app/api?username=HeemahMuslad&show_icons=true&theme=jolly&layout=compact" alt="stats"/>
+  	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeemahMuslad&langs_count=8&theme=jolly&layout=compact" alt="top langs"/>
+    </div>
