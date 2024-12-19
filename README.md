@@ -2,7 +2,8 @@
 
 I'm **_Rohimat Mustapha_**, also known as _HeemahMuslad_. I’m a passionate and results-driven **Frontend Developer** dedicated to delivering high-quality, scalable, and user-centered web solutions.
 I have hands-on experience with `JavaScript` and `Typescript`, and I specialize in building responsive and dynamic web applications using frameworks like **React.js** and **Next.js**.
-#🌟 **What I’m Looking For:**  
+
+🌟 **What I’m Looking For:**  
 I’m eager to collaborate on exciting web development projects that solve real-world problems and create impactful user experiences.
 
 ![counter](https://komarev.com/ghpvc/?username=HeemahMuslad&color=blue)
